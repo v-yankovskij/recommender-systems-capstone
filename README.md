@@ -1,5 +1,6 @@
 # recommender-systems-capstone
-A capstone project for ["Recommender Systems" Coursera specialization by Minnesota university](https://www.coursera.org/specializations/recommender-systems).
+A capstone project for ["Recommender Systems" Coursera specialization by Minnesota university](https://www.coursera.org/specializations/recommender-systems), done in summer 2022.
+
 # Project Objective
 Your project should assess and recommend a recommender solution for the following scenario:
 
